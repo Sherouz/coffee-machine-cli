@@ -101,4 +101,6 @@ Feel free to fork, explore, and extend it (e.g., add more drinks, use a JSON men
 
 ## License 📃
 
-Distributed under the [MIT License](LICENSE).# coffee-machine-cli
+Distributed under the [MIT License](LICENSE).
+
+*Last updated: Oct 01, 2025*
